@@ -33,6 +33,6 @@ export default {
   build: {},
   target: "static",
   router: {
-    base: "calculator-nuxt"
+    base: "/calculator-nuxt"
   }
 };
