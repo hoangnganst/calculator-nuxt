@@ -1,5 +1,6 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+
   head: {
     title: "calculator",
     htmlAttrs: {
@@ -31,8 +32,5 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
-  target: "static",
-  router: {
-    base: "/calculator-nuxt"
-  }
+  target: "static"
 };
